@@ -1,6 +1,6 @@
 
 <img width="1254" height="1254" alt="file_000000004b3071f49456f25445dc7111" src="https://github.com/user-attachments/assets/e5cb8f75-91ea-443f-badd-4347ec09fd2c" />
-# Edenara Group
+## Edenara Group
 
 **Building the Future Through Science, Technology, Capital, and Innovation.**
 
@@ -41,30 +41,6 @@ The website showcases Edenara Group's core subsidiaries:
 * Babel Standalone
 * Vanilla CSS
 * JavaScript (ES6+)
-
-## Deployment
-
-The project is deployment-ready and can be hosted on any static hosting platform, including:
-
-* GitHub Pages
-* Netlify
-* Vercel
-* Cloudflare Pages
-* Any standard web server
-
-No installation or build process is required. Simply upload `index.html`.
-
-## Design System
-
-**Brand Colors**
-
-* Navy (#0B1F38)
-* Gold (#B8922A)
-
-**Typography**
-
-* Cambria
-* Calibri
 
 ## Philosophy
 
