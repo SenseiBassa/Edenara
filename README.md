@@ -1,5 +1,6 @@
 
 <img width="1254" height="1254" alt="file_000000004b3071f49456f25445dc7111" src="https://github.com/user-attachments/assets/e5cb8f75-91ea-443f-badd-4347ec09fd2c" />
+
 **Building the Future Through Science, Technology, Capital, and Innovation.**
 
 Edenara Group is a diversified holding company committed to solving global challenges through innovation across biotechnology, healthcare, finance, agriculture, and technology. Our mission is to create sustainable solutions that improve lives, accelerate economic development, and drive scientific progress.
